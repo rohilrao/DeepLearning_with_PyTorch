@@ -1,18 +1,3 @@
-# DeepLearning_with_PyTorch
-DL algorithms implemented using Pytorch (on CUDA GPUs):
-
-List of algorithms:
-<ul>
-<li> Multi Layer Neural Network </li>
-<li> Convolution Neural Networks </li>
-<li> WandB implementation for Hyperparameter Sweeps </li>
-<li> Convolutions on customzied Robot dataset </li>
-<li> Variational Convolutional Autoencoders </li>
-<li> LSTM and GRU</li>
-<li> DCGAN </li>
-<li> WGAN </li>
-</ul>
-
 
 # Self-supervised Video Prediction Project
 
@@ -37,3 +22,18 @@ Results on a customized Robot dataset (created from scratch from youtube videos)
 
 ![robots_combined (1)](https://user-images.githubusercontent.com/8552260/116861856-1e1d1080-ac04-11eb-9eb9-5ef0ae463e13.png)
 
+
+# Other Deep Learning models 
+DL algorithms implemented using Pytorch (on CUDA GPUs):
+
+List of algorithms:
+<ul>
+<li> Multi Layer Neural Network </li>
+<li> Convolution Neural Networks </li>
+<li> WandB implementation for Hyperparameter Sweeps </li>
+<li> Convolutions on customzied Robot dataset </li>
+<li> Variational Convolutional Autoencoders </li>
+<li> LSTM and GRU</li>
+<li> DCGAN </li>
+<li> WGAN </li>
+</ul>
